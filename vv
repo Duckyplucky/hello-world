@@ -1,0 +1,2 @@
+./gradlew run --args='--size=30,30 --paper 4x4in'
+inkscape solution.svg -z -e doc/basic.png -w400 -h400
